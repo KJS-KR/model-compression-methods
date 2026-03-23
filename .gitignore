@@ -22,3 +22,10 @@ __pycache__/
 *.pth.tar.gz
 *.pt.tar.gz
 *.pkl.tar.gz
+
+.claude/*
+**/data/
+**/results/
+*.pth
+*.pt
+*.pkl

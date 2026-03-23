@@ -1,0 +1,14 @@
+# PyTorch with CUDA (RTX 4000 시리즈용)
+# 아래 명령어로 먼저 설치:
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+#
+# 또는 CUDA 버전에 맞게:
+# - CUDA 11.8: https://download.pytorch.org/whl/cu118
+# - CUDA 12.1: https://download.pytorch.org/whl/cu121
+# - CUDA 12.4: https://download.pytorch.org/whl/cu124
+
+# torch>=2.0.0
+# torchvision>=0.15.0
+matplotlib>=3.7.0
+numpy>=1.24.0
+tqdm>=4.65.0
